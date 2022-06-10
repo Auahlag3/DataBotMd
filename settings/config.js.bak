@@ -9,17 +9,17 @@ global.iklan = fs.readFileSync("./settings/iklan.jpg")
 global.sewabot = fs.readFileSync("./settings/sewa.jpg")
 global.qris = fs.readFileSync("./settings/qris.jpg")
 global.err4r = "https://telegra.ph/file/7188012d573871aaf4fa0.jpg"
-global.owner = ['6283103984855','6283818717862']
-global.ownernumber = "6283103984855"
-global.ownername = "Yaudah Enggak"
-global.namebot = "DataBotzMD"
+global.owner = ['6283818717862','6283103984855']
+global.ownernumber = "6283818717862"
+global.ownername = "Lexxy Official"
+global.namebot = "NeoBotzMD"
 global.lolhuman = "YOUR_APIKEY"
 global.rkyt = []
-global.banUser = ['6283818717862@s.whatsapp.net']
+global.banUser = ['6281366679021@s.whatsapp.net']
 global.ntilink = ['120363043965529911@g.us','120363022988111568@g.us']
 global.wlcm = []
 global.gcrevoke = ['19054091487-1424650263@g.us']
-global.packname = "DataBot"
+global.packname = "© Lexxy || Official"
 global.packname2 = "Yaudah Enggak"
 global.author = "Lexxy_Dev"
 global.sessionName = "session"
@@ -27,21 +27,21 @@ global.linkgrupss = "https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: '*Done Babi!*',
-    admin: '*Lu Member dek ga bisa khusus admin yak!*',
+    success: '*Success!*',
+    admin: '*Fitur Khusus Admin Group!*',
     botAdmin: '*Bot Harus Menjadi Admin Terlebih Dahulu!*',
     owner: '*Fitur Khusus Owner Bot*',
     group: '*Fitur Digunakan Hanya Untuk Group!*',
     private: '*Fitur Digunakan Hanya Untuk Private Chat!*',
     bot: '*Fitur Khusus Pengguna Nomor Bot*',
-    wait: '*Loanjing!*',
+    wait: '*Silahkan Menunggu!*',
     linkm: 'Linknya Mana Kak?',
-    ban: '*Mampus kena baned oleh owner, Jika ingin di unbanned chat owner*'
+    ban: '*Kamu telah dibanned oleh owner, Jika ingin di unbanned chat owner*'
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 200,
-    monayawal: 1000
+    free: 99999999999999999999,
+    monayawal: 99999999999999999999
 }
    global.rpg = {
    darahawal: 100,
@@ -53,7 +53,7 @@ global.limitawal = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 200
+    free: 99999999999999999999
 }
 // Beli Di Zenz Yo
 global.APIs = {
